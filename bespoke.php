@@ -34,16 +34,24 @@ $box = array(
 
  array("blue_ring","All my rings are hand made, however this one is a work of art. My client brought me a hugely sentimental and beautiful old cut 2 ct Diamond which she wanted to be set in a modern but timeless design. By surrounding the Diamond with two rows of bespoke cut perfectly matched blue baguette Sapphire's we managed to create a cocktail ring which is jaw dropping but still delicate enough to be extremely comfortable to wear."),
 
+array("diamond_necklace","This piece speaks for itself, however it would have appeared even more magnificent than in the photo if it had been modeled on the gorgeous tanned skin of its' owner. A perfectly graduated collection of high quality diamonds with a fabulous claps which cleverly hide the fixing mechanism set in a handmade platinum mount."),
+array("sapphire_diamond","The brief was to incorporate a diamond brooch into a wearable necklace. The beauty of this piece is that the Sapphire bead tassel has been cleverly created to be removable. This enables the necklace to be worn more simply without the drop or with a multitude of different coloured stones or pearls as an attachment.
+"),
  array("emerald_pendant","Many years ago I purchased this 14ct cabochon Emerald and finally this year I decided to create a pendant. The setting is hand made and the rich 18ct yellow gold feels luxurious. Pairing it with a 5.35ct oval cabochon Tanzanite, rather than using Diamonds enables this piece to be worn for all occasions. I can make similar pendants with any combination of stones....however this piece is for sale should you be tempted!"),
 
+array("star_sapphire_ring","This is a seriously large star Ruby ring, weighing in at approx 70cts....the optical phenomenon called asterism creates a star in sunlight or any form of direct light adding to the fun of the stone. I have supplied other clients with smaller versions.
+"),
+array("sapphire_cufflinks","Using star rubies to create cuff links was much appreciated by my husband as I never make him any jewellery. Making them all the more special, I had the date we met and our wedding day date engraved on the gold bars. These can be replicated in lots of different stones, a very personal gift.
+"),
  array("garnet_ring","This stunning oval 7.90ct Hessonite Garnet was chosen by a client for her birthday, she wanted a really simple smooth organic style which would really enhance the gorgeous rich colour of the stone. It was just a bonus that garnet is her birthstone..."),
 
  array("sapphire_ring_2","This client met a spiritual man in India who advised her to wear a Sapphire for her health...she popped in for a coffee, immediately fell in love with this octagonal natural french lemon sapphire weighing 5.06cts.  We designed a ring using soft champagne diamonds in 18ct rose gold...She swears it keeps her calm!"),
-
  array("green_earrings","A fantastically subtle colour combination which can be worn for day, whilst still being special enough to glitter beautifully at night time. Two pink Kunzite gems (7.13cts) and a perfect set of pale green Prasiolite drops (17.09cts) have been placed in an 18ct white gold frame with minimal metal to enhance the the beauty of the stones. These earrings can be recreated in other colour combinations."),
 
  array("lilac_sapphire","A rare untreated 13.6ct cushion cut lilac Sapphire with .50ct trapezium shaped Diamond shoulders in 18ct yellow gold. I love to source really special stones and can always find a great selection to consider."),
 
+array("multigem_pendant","I absolutely adore the diversity of coloured sapphires and this very soft palate of rose cut stones has been set in a barely there 9ct white gold setting to show off the stones to their best. I have a set of pink sapphires and a multi coloured set of stones waiting to be made if you are tempted? These can be also set in a rub over style.
+"),
  array("diamond_crossing","I loved using my client's solitaire engagement ring to create a wide banded ring, which was not heavy, but modern and timeless....I suggested coloured diamonds, we considered pink, yellow, raspberry and teal, but the natural pink were the winner from the start....Set in 18ct white gold and using .96pts of pink diamonds, the wrapping design was inspired by arms holding safe the sentimental stone."),
 
  array("pearl_pendant","During my last trip to Oz, I bought this large tear drop shaped south sea pearl...My client spotted it amongst my box of treasures and chose a 4.04ct purple spinel and we set them together in this classically simple 18ct white gold necklace."),
@@ -64,13 +72,16 @@ $box = array(
 
  array("gold_band","Diamond ring with gold band and white gold setting."),
 
+array("memories_bangle","This is a very sentimental piece which I named the 'memories bangle' it incorporates gold and diamonds from important people in my clients life, which now can be kept close to her and enjoyed everyday.
+"),
+array("quartz_earrings","This client really found it quite difficult to find drop ear rings that suited her face perfectly, so I created a pair the perfect length. A very simple design using rutilated quartz which perfectly suits the yellow gold as it picks up the rods of golden colour in the ball. Easy to wear and great for everyday.
+"),
  array("garnet","An amazing 6.62 ct Spessartite Garnet set in 18ct yellow gold with Diamond shoulders. The setting is completely open from the side view to show off this impressive stone."),
 
  array("pear_drops","Having sourced a complete set of four matching peridot, we used the two pear drops to make earrings to compliment the pendant.  It was very difficult to find the perfect pear shaped spessartites to match, so we found the best colour and approximate shape and had the stones cut to create the perfect balance to the drop. Once again all of the settings have been hand made to show minimal gold support."),
 
  array("flawless","A unique pendant made from a flawless 25ct peridot and a 6 ct spessartite garnet.  the setting is hand made to use the minimum about of gold, allowing the stones to speak for themselves. The 18ct yellow gold cable was made to match the piece."),
 
- array("diamond_solitaire","This is the most touching story of a couple who bought their engagement ring in 1949, 60 years later he wanted to buy his lovely wife a Diamond ring...The brief was to make .74pts diamond into a ring which sat perfectly with her wide gold wedding band."),
 
  array("peridot","Years of yearning for the perfect green Peridot ring, lead to an extensive search for the right one!  Once we found the 8.5ct oval cushion cut stone all we did was place a few diamonds on the shoulders and let the beautiful stone speak for itself."),
 
@@ -99,6 +110,8 @@ array("pearl_drops","I opened my post one morning and out dropped a well loved t
  array("diamond_shoulder","A bright green .75ct Emerald with triangular diamond shoulders in a rub over setting. This style of setting is very good for protecting the Emerald."),
 
  array("blue_sapphire","A special ring made with blue sapphires and diamonds in 18ct yellow gold to remember a promise made by my friend to her mother. Her mother wanted to know what she was going to spend a gift of some money on and she said a ring made with blue stones as they are your favourite colour."),
+
+ array("diamond_solitaire","This is the most touching story of a couple who bought their engagement ring in 1949, 60 years later he wanted to buy his lovely wife a Diamond ring...The brief was to make .74pts diamond into a ring which sat perfectly with her wide gold wedding band."),
 
  array("victorian","A .75ct diamond taken from a Victorian engagement setting and made into a contemporary ring in 18ct gold to be worn in a modern way."),
 
